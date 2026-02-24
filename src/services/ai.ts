@@ -1,9 +1,7 @@
 import { GoogleGenAI } from '@google/genai';
 
 
-const API_KEY = GEMINI_API_KEY
-//'AIzaSyB9xurJ_3hhxeWFicm2aOlFYiWb1SsMPOw';
-
+const API_KEY = GEMINi_API_KEY ;
 // Using gemini-2.5-flash as requested by user
 const PRIMARY_MODEL = 'gemini-2.5-flash';
 
