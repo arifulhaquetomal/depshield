@@ -2,7 +2,7 @@
 import { RepoInfo, Dependency, MaintainerHealth } from '@/types';
 
 const GITHUB_API = 'https://api.github.com';
-const GITHUB_TOKEN = GITHUB_TOKEN;
+const GITHUB_TOKEN;
 
 interface GitHubError {
   message: string;
